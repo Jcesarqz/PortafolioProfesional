@@ -32,5 +32,4 @@ El portafolio tiene como objetivo presentar mis proyectos más relevantes, habil
 
    Si deseas ver este portafolio en tu máquina local, puedes clonar este repositorio usando Git.
 
-   ```bash
-   git clone https://github.com/tu_usuario/portafolio-profesional.git
+ 
